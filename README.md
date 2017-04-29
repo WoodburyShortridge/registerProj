@@ -6,7 +6,7 @@ see `/video`
 
 [![minisim video screenshot](https://woodburyshortridge.github.io/registerProj/video/Capture.PNG)](https://woodburyshortridge.github.io/registerProj/video/ecoDriving.mp4)
 
-## register auditory prototype
+## register type auditory prototype
 
 see `/sounds`
 
