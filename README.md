@@ -1,8 +1,8 @@
-# pilot files for eco-driving mini-sim 
+# pilot files for eco-driving minisim 
 
 ## HUD & auditory interface in the minisim
 
-
+see `/video`
 
 [![minisim video screenshot](https://woodburyshortridge.github.io/registerProj/video/Capture.PNG)](https://woodburyshortridge.github.io/registerProj/video/ecoDriving.mp4)
 
