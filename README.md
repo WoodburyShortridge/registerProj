@@ -1,4 +1,4 @@
-# pilot files for eco-driving minisim 
+# Prototypes for eco-driving minisim 
 
 ## HUD & auditory interface in the minisim
 
